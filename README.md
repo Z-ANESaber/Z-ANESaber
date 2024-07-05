@@ -1,7 +1,6 @@
 ##
 <h3 align="left">Random posting random stuff</h3>
 <hl>
-  <img src="https://github.com/Z-ANESaber/Z-ANESaber/assets/73610021/6b8455f3-5b91-4806-aacb-28e37b13cab8" height="250" align="right" z-index="-20"/>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=z-anesaber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
