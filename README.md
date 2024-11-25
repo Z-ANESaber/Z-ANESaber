@@ -18,9 +18,3 @@
 <br clear="both">
 <br clear="both">
 <br clear="both">
-
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/zanesaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zanesaber" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zanesaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zanesaber" height="30" width="40" /></a>
-</p>
